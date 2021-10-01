@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 public class Driver {
 
-    private static Logger logger = LoggerFactory.getLogger(Driver.class);
+    public static Logger logger = LoggerFactory.getLogger(Driver.class);
 
     public static void main(String[] args) {
 

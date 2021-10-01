@@ -1,5 +1,7 @@
 package domain;
 
+import bootstrap.Driver;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -14,11 +16,12 @@ public class GameInterface {
 
     public static void displayRanks(ArrayList<Player> players) {
         System.out.println("\n\nHere is the final result of the game : ");
-
+        Driver.logger.info("The final standings are : ");
         Collections.sort(players);
 
         for (int i = 0 ; i < players.size(); i++) {
-            System.out.println(i+1 + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank());
+            Driver.logger.info((i+1) + ". "+players.get(i).getName());
+            System.out.println((i+1) + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank());
         }
     }
 
@@ -31,6 +34,7 @@ public class GameInterface {
         System.out.println("Enter the name of Player 1 : ");
         String playerName = scanner.nextLine();
         players.add(new Player(playerName,1));
+        Driver.logger.info("Player 1: "+playerName+" entered the game");
 
         int i =2;
         int choice = 1;
@@ -39,6 +43,7 @@ public class GameInterface {
             System.out.println("\nEnter the name of Player "+i);
             playerName = scanner.nextLine();
             players.add(new Player(playerName,i));
+            Driver.logger.info("Player "+i+ ": "+playerName+" entered the game");
             System.out.println("Enter 1 if you want to add one more player else enter -1");
             try {
                 choice = Integer.parseInt(scanner.nextLine());

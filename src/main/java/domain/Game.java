@@ -1,5 +1,7 @@
 package domain;
 
+import bootstrap.Driver;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -57,6 +59,7 @@ public class Game implements Serializable {
             }
             gameBoard[i] = currentSquare;
         }
+        Driver.logger.info("Initialised the board with all the Snakes an =d Ladders");
     }
 
 
