@@ -1,10 +1,11 @@
 package domain;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
-public class Game {
+public class Game implements Serializable {
 
-    static int playersCompleted= 0;
+    int playersCompleted= 0;
 
     static final int SQUARES_ON_BOARD = 100;
 
@@ -13,10 +14,26 @@ public class Game {
     static int [] ladderStarts = {2,7,8,15,21,28,36,51,71,78,87};
     static int [] ladderEnds = {38,14,31,26,42,84,44,67,91,98,94};
 
-    static Square [] gameBoard = new Square[SQUARES_ON_BOARD];
-    static ArrayList<Player> players ;
+    Square [] gameBoard = new Square[SQUARES_ON_BOARD];
+    ArrayList<Player> players ;
 
-    static void initializeBoard (){
+    public Square[] getGameBoard() {
+        return gameBoard;
+    }
+
+    public ArrayList<Player> getPlayers() {
+        return players;
+    }
+
+    public void setPlayers(ArrayList<Player> players) {
+        this.players = players;
+    }
+
+    public void setGameBoard(Square[] gameBoard) {
+        this.gameBoard = gameBoard;
+    }
+
+    public void initializeBoard (){
         int ladderCounter = 0;
         int snakeCounter = 0;
         for (int i = 0; i < SQUARES_ON_BOARD; i++) {
@@ -42,60 +59,5 @@ public class Game {
         }
     }
 
-    public static void startGame(){
 
-        initializeBoard();
-
-        players = Player.inputPlayers();
-        for (int i = 0; i < 5; i++) {
-            if (players.size()<=1){
-                System.out.println("You need more than one player to play the game");
-                players = Player.inputPlayers();
-            }else {
-                break;
-            }
-        }
-
-        while (true){
-            for (Player player :  players) {
-                if (player.HasFinished()==false){
-                    throwDice(player);
-                }
-            }
-            if (playersCompleted == players.size()){
-                displayRanks();
-                break;
-            }
-        }
-    }
-
-    private static void displayRanks() {
-        for (int i = 0 ; i < players.size(); i++) {
-            System.out.println(i+1 + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank());
-        }
-    }
-
-    private static void throwDice(Player player) {
-        int diceThrow = Dice.getNumber();
-        int squareAfterAdding = player.getCurrentSquare() + diceThrow;
-        if (squareAfterAdding > SQUARES_ON_BOARD){
-            System.out.println("Total greater than 100");
-            return;
-        } else if (squareAfterAdding == 100){
-            System.out.println(player.getName()+" has completed the game !!!!!!!!!!!");
-            playersCompleted += 1;
-            player.setRank(playersCompleted);
-            player.setHasFinished(true);
-
-            return;
-        } else if (gameBoard[squareAfterAdding].hasSnakeHead()){
-            player.setCurrentSquare(gameBoard[squareAfterAdding].getSnakeTail());
-            return;
-        } else if (gameBoard[squareAfterAdding].hasLadderStart()){
-            player.setCurrentSquare(gameBoard[squareAfterAdding].getLadderEnd());
-            return;
-        } else {
-            player.setCurrentSquare(squareAfterAdding);
-        }
-    }
 }

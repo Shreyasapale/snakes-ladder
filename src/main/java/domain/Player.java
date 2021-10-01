@@ -1,16 +1,31 @@
 package domain;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Player {
+public class Player implements Serializable, Comparable {
 
     static final int MAX_PLAYERS_ALLOWED = 8;
 
+    private int number;
     private String name;
     private int rank;
     private boolean hasFinished;
     private int currentSquare;
+    private int noOfMoves;
+
+    public int getNoOfMoves() {
+        return noOfMoves;
+    }
+
+    public void setNoOfMoves(int noOfMoves) {
+        this.noOfMoves = noOfMoves;
+    }
+
+    public void incrementMoves(){
+        this.noOfMoves += 1;
+    }
 
     public int getCurrentSquare() {
         return currentSquare;
@@ -44,34 +59,37 @@ public class Player {
         this.hasFinished = hasFinished;
     }
 
-    public Player(String name) {
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
+    }
+
+    public Player(String name,int i) {
+        this.number = i;
         this.name = name;
         this.hasFinished = false;
         this.rank = 0;
         this.currentSquare = 1;
+        this.noOfMoves = 0;
     }
 
-    public static ArrayList<Player> inputPlayers(){
-        Scanner scanner = new Scanner(System.in);
-        ArrayList<Player> players = new ArrayList<>();
-        int i =1;
-        int choice = 1;
-        while (i <= MAX_PLAYERS_ALLOWED && choice==1){
-            System.out.println("Enter the name of Player "+i);
-            String playerName = scanner.nextLine();
-            players.add(new Player(playerName));
-            System.out.println("Enter 1 if you want to add one more player");
-            try {
-                choice = Integer.parseInt(scanner.nextLine());
-            }catch (Exception e){
-                System.out.println("Now, no more players can be added");
-                break;
-            }
+
+    @Override
+    public int compareTo(Object o) {
+        Player playerToCompareWith = (Player) o;
+        if (noOfMoves < playerToCompareWith.getNoOfMoves()){
+            return -1;
+        } else if (noOfMoves > playerToCompareWith.getNoOfMoves() ){
+            return 1;
+        } else {
+           if (number < playerToCompareWith.getNumber()){
+               return -1;
+           } else {
+               return 1;
+           }
         }
-        if (i == MAX_PLAYERS_ALLOWED){
-            System.out.println("Players more than "+MAX_PLAYERS_ALLOWED+" are not allowed");
-        }
-        scanner.close();
-        return players;
     }
 }
