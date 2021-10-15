@@ -3,7 +3,7 @@ package domain;
 
 import java.util.concurrent.Callable;
 
-public class Player implements Comparable {
+public class Player implements Comparable, Callable<Integer> {
 
     static final int MAX_PLAYERS_ALLOWED = 8;
 
@@ -92,4 +92,19 @@ public class Player implements Comparable {
         }
     }
 
+    /*
+    * return 1 means thr object has higher index
+    * */
+
+    @Override
+    public Integer call() throws Exception {
+        Thread.currentThread().setName("Player "+this.getName());
+        while (true){
+            PlayGame.throwDiceAndMove(this);
+            if (this.hasFinished){
+                break;
+            }
+        }
+        return this.noOfMoves;
+    }
 }

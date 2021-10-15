@@ -10,14 +10,15 @@ import org.slf4j.LoggerFactory;
 
 public class Driver {
 
-    public static Logger logger = LoggerFactory.getLogger(Driver.class);
+    private static Logger logger = LoggerFactory.getLogger(Driver.class);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         configureLogging("snakes-and-ladders.log","INFO");
         logger.info("The Game is started");
 
         PlayGame.startGame();
+        return;
     }
 
     public static String configureLogging(String logFile, String logLevel){

@@ -17,14 +17,22 @@ public class GameInterface {
     }
 
     public static void displayRanks(ArrayList<Player> players) {
+
+//        for (int i = 0 ; i < players.size(); i++) {
+//            System.out.println((i+1) + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank()+ "\tMoves: "+ players.get(i).getNoOfMoves());
+//        }
         System.out.println("\n\nHere is the final result of the game : ");
         logger.info("The final standings are : ");
         Collections.sort(players);
 
         for (int i = 0 ; i < players.size(); i++) {
-            logger.info((i+1) + ". "+players.get(i).getName());
-            System.out.println((i+1) + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank());
+            Player currentPlayer = players.get(i);
+            currentPlayer.setRank(i+1);
+            logger.info((i+1) + ". "+currentPlayer.getName());
+            System.out.println((i+1) + " "+currentPlayer.getName() + "\t\tRank: "+currentPlayer.getRank()+ "\tMoves: "+ currentPlayer.getNoOfMoves());
         }
+
+        System.out.println("\n\n The winner of this game is : "+players.get(0).getName()+"\n");
     }
 
     public static ArrayList<Player> inputPlayers(){

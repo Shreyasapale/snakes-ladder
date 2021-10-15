@@ -12,3 +12,2302 @@
 2021-10-15 13:36:47,950 [main] INFO  domain.GameInterface - The final standings are : 
 2021-10-15 13:36:47,956 [main] INFO  bootstrap.Driver - 1. SSS
 2021-10-15 13:36:47,956 [main] INFO  bootstrap.Driver - 2. SS2
+2021-10-15 14:59:42,468 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 14:59:42,477 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:01:08,037 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 15:01:19,239 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 15:10:42,744 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:10:42,749 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:10:55,504 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 15:10:59,162 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 15:11:03,091 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 15:11:03,092 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 31	 Number on Dice:4
+2021-10-15 15:11:03,092 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 44	 Number on Dice:3
+2021-10-15 15:11:03,092 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 47	 Number on Dice:2
+2021-10-15 15:11:03,092 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 49	 Number on Dice:2
+2021-10-15 15:11:03,091 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:4
+2021-10-15 15:11:03,093 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 51	 Number on Dice:3
+2021-10-15 15:11:03,094 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 54	 Number on Dice:1
+2021-10-15 15:11:03,093 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 5	 Number on Dice:4
+2021-10-15 15:11:03,094 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 55	 Number on Dice:3
+2021-10-15 15:11:03,095 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 9	 Number on Dice:3
+2021-10-15 15:11:03,095 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 12	 Number on Dice:3
+2021-10-15 15:11:03,095 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 15	 Number on Dice:3
+2021-10-15 15:11:03,096 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 58	 Number on Dice:2
+2021-10-15 15:11:03,096 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 18	 Number on Dice:6
+2021-10-15 15:11:03,096 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 60	 Number on Dice:5
+2021-10-15 15:11:03,096 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 65	 Number on Dice:5
+2021-10-15 15:11:03,096 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 91	 Number on Dice:5
+2021-10-15 15:11:03,097 [pool-1-thread-2] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 96	 Number on Dice:4
+2021-10-15 15:11:03,099 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 24	 Number on Dice:5
+2021-10-15 15:11:03,099 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 29	 Number on Dice:4
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 33	 Number on Dice:3
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 36	 Number on Dice:3
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 39	 Number on Dice:6
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 45	 Number on Dice:2
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 47	 Number on Dice:3
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 67	 Number on Dice:3
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 91	 Number on Dice:1
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 92	 Number on Dice:1
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 93	 Number on Dice:2
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:3
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:6
+2021-10-15 15:11:03,100 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:3
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:6
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:1
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:1
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 81	 Number on Dice:5
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:5
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 15:11:03,101 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 15:11:03,102 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 15:11:03,102 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 15:11:03,102 [pool-1-thread-1] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:11:03,102 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:11:03,106 [main] INFO  domain.GameInterface - 1. Shreya
+2021-10-15 15:11:03,106 [main] INFO  domain.GameInterface - 2. SSS
+2021-10-15 15:13:29,697 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:13:29,709 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:13:35,704 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 15:13:39,060 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 15:13:43,385 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 15:13:43,385 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 15:13:43,386 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 4	 Number on Dice:2
+2021-10-15 15:13:43,386 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 3	 Number on Dice:1
+2021-10-15 15:13:43,386 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 14	 Number on Dice:6
+2021-10-15 15:13:43,386 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 4	 Number on Dice:3
+2021-10-15 15:13:43,387 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 31	 Number on Dice:3
+2021-10-15 15:13:43,387 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 42	 Number on Dice:1
+2021-10-15 15:13:43,388 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 34	 Number on Dice:6
+2021-10-15 15:13:43,388 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 43	 Number on Dice:4
+2021-10-15 15:13:43,389 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 47	 Number on Dice:3
+2021-10-15 15:13:43,389 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 67	 Number on Dice:6
+2021-10-15 15:13:43,389 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 73	 Number on Dice:3
+2021-10-15 15:13:43,390 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 76	 Number on Dice:5
+2021-10-15 15:13:43,390 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 81	 Number on Dice:4
+2021-10-15 15:13:43,390 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 85	 Number on Dice:6
+2021-10-15 15:13:43,390 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 91	 Number on Dice:5
+2021-10-15 15:13:43,390 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 96	 Number on Dice:4
+2021-10-15 15:13:43,388 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 40	 Number on Dice:3
+2021-10-15 15:13:43,393 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 43	 Number on Dice:4
+2021-10-15 15:13:43,394 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 47	 Number on Dice:3
+2021-10-15 15:13:43,394 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 67	 Number on Dice:5
+2021-10-15 15:13:43,394 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 72	 Number on Dice:3
+2021-10-15 15:13:43,395 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 75	 Number on Dice:3
+2021-10-15 15:13:43,395 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 78	 Number on Dice:2
+2021-10-15 15:13:43,395 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:5
+2021-10-15 15:13:43,396 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 85	 Number on Dice:4
+2021-10-15 15:13:43,396 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 89	 Number on Dice:6
+2021-10-15 15:13:43,396 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:6
+2021-10-15 15:13:43,397 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:5
+2021-10-15 15:13:43,398 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:13:43,399 [main] INFO  domain.GameInterface - 1. Shreya
+2021-10-15 15:13:43,399 [main] INFO  domain.GameInterface - 2. SSS
+2021-10-15 15:15:01,279 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:15:01,284 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:15:11,095 [main] INFO  domain.GameInterface - Player 1: Raj entered the game
+2021-10-15 15:15:14,130 [main] INFO  domain.GameInterface - Player 2: SSS entered the game
+2021-10-15 15:15:19,312 [main] INFO  domain.GameInterface - Player 3: Shreya entered the game
+2021-10-15 15:15:27,135 [main] INFO  domain.GameInterface - Player 4: RST entered the game
+2021-10-15 15:15:30,866 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 15:15:30,866 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 3	 Number on Dice:2
+2021-10-15 15:15:30,866 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 5	 Number on Dice:2
+2021-10-15 15:15:30,866 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 31	 Number on Dice:2
+2021-10-15 15:15:30,866 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 33	 Number on Dice:5
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 38	 Number on Dice:4
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 42	 Number on Dice:6
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 48	 Number on Dice:5
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 53	 Number on Dice:6
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 59	 Number on Dice:3
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 62	 Number on Dice:5
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 67	 Number on Dice:2
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 69	 Number on Dice:2
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 71	 Number on Dice:6
+2021-10-15 15:15:30,867 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:2
+2021-10-15 15:15:30,881 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 15:15:30,881 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 31	 Number on Dice:5
+2021-10-15 15:15:30,882 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 36	 Number on Dice:6
+2021-10-15 15:15:30,882 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 42	 Number on Dice:5
+2021-10-15 15:15:30,882 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 47	 Number on Dice:1
+2021-10-15 15:15:30,882 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 31	 Number on Dice:6
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 37	 Number on Dice:5
+2021-10-15 15:15:30,882 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 48	 Number on Dice:2
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 42	 Number on Dice:2
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 45	 Number on Dice:6
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 51	 Number on Dice:4
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 55	 Number on Dice:5
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 60	 Number on Dice:4
+2021-10-15 15:15:30,883 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 67	 Number on Dice:6
+2021-10-15 15:15:30,883 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 64	 Number on Dice:4
+2021-10-15 15:15:30,884 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 68	 Number on Dice:4
+2021-10-15 15:15:30,884 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 72	 Number on Dice:3
+2021-10-15 15:15:30,884 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 73	 Number on Dice:4
+2021-10-15 15:15:30,884 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 98	 Number on Dice:2
+2021-10-15 15:15:30,884 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 1	 Number on Dice:5
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 14	 Number on Dice:4
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 18	 Number on Dice:2
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 42	 Number on Dice:3
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 45	 Number on Dice:4
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 49	 Number on Dice:3
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 52	 Number on Dice:2
+2021-10-15 15:15:30,885 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 54	 Number on Dice:4
+2021-10-15 15:15:30,886 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 58	 Number on Dice:3
+2021-10-15 15:15:30,884 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 75	 Number on Dice:5
+2021-10-15 15:15:30,889 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 61	 Number on Dice:2
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 63	 Number on Dice:1
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 64	 Number on Dice:5
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 69	 Number on Dice:6
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 75	 Number on Dice:4
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 79	 Number on Dice:1
+2021-10-15 15:15:30,890 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 80	 Number on Dice:1
+2021-10-15 15:15:30,902 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 81	 Number on Dice:4
+2021-10-15 15:15:30,904 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:2
+2021-10-15 15:15:30,905 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 82	 Number on Dice:4
+2021-10-15 15:15:30,905 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 85	 Number on Dice:4
+2021-10-15 15:15:30,905 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 15:15:30,906 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 89	 Number on Dice:4
+2021-10-15 15:15:30,906 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 15:15:30,907 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 93	 Number on Dice:2
+2021-10-15 15:15:30,907 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 84	 Number on Dice:5
+2021-10-15 15:15:30,908 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 89	 Number on Dice:4
+2021-10-15 15:15:30,908 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 95	 Number on Dice:1
+2021-10-15 15:15:30,909 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 93	 Number on Dice:5
+2021-10-15 15:15:30,909 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:2
+2021-10-15 15:15:30,910 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 82	 Number on Dice:2
+2021-10-15 15:15:30,910 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 84	 Number on Dice:4
+2021-10-15 15:15:30,910 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 88	 Number on Dice:4
+2021-10-15 15:15:30,910 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 92	 Number on Dice:2
+2021-10-15 15:15:30,910 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:6
+2021-10-15 15:15:30,910 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 96	 Number on Dice:3
+2021-10-15 15:15:30,910 [Player RST] INFO  domain.PlayGame - 
+
+Player: RST	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:15:30,911 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:15:30,912 [main] INFO  domain.GameInterface - 1. Shreya
+2021-10-15 15:15:30,912 [main] INFO  domain.GameInterface - 2. Raj
+2021-10-15 15:15:30,912 [main] INFO  domain.GameInterface - 3. RST
+2021-10-15 15:15:30,912 [main] INFO  domain.GameInterface - 4. SSS
+2021-10-15 15:18:09,232 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:18:09,236 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:18:17,316 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 15:18:29,673 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 15:18:34,432 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 15:18:34,433 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:1
+2021-10-15 15:18:34,433 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 31	 Number on Dice:1
+2021-10-15 15:18:34,433 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 2	 Number on Dice:2
+2021-10-15 15:18:34,433 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 32	 Number on Dice:3
+2021-10-15 15:18:34,434 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 44	 Number on Dice:6
+2021-10-15 15:18:34,434 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 4	 Number on Dice:6
+2021-10-15 15:18:34,434 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 10	 Number on Dice:5
+2021-10-15 15:18:34,434 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 67	 Number on Dice:2
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 69	 Number on Dice:2
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 71	 Number on Dice:5
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 76	 Number on Dice:6
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 82	 Number on Dice:6
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 88	 Number on Dice:3
+2021-10-15 15:18:34,435 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 15	 Number on Dice:5
+2021-10-15 15:18:34,435 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 91	 Number on Dice:6
+2021-10-15 15:18:34,436 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 42	 Number on Dice:6
+2021-10-15 15:18:34,436 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 15:18:34,436 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 48	 Number on Dice:6
+2021-10-15 15:18:34,437 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 15:18:34,437 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:4
+2021-10-15 15:18:34,437 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:1
+2021-10-15 15:18:34,437 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:6
+2021-10-15 15:18:34,437 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 54	 Number on Dice:6
+2021-10-15 15:18:34,438 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 15:18:34,438 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 60	 Number on Dice:5
+2021-10-15 15:18:34,438 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 65	 Number on Dice:6
+2021-10-15 15:18:34,438 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:1
+2021-10-15 15:18:34,439 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 81	 Number on Dice:2
+2021-10-15 15:18:34,439 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 83	 Number on Dice:6
+2021-10-15 15:18:34,439 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 89	 Number on Dice:5
+2021-10-15 15:18:34,439 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 71	 Number on Dice:5
+2021-10-15 15:18:34,440 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 76	 Number on Dice:6
+2021-10-15 15:18:34,439 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 94	 Number on Dice:1
+2021-10-15 15:18:34,440 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:6
+2021-10-15 15:18:34,441 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:3
+2021-10-15 15:18:34,441 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:5
+2021-10-15 15:18:34,441 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 85	 Number on Dice:2
+2021-10-15 15:18:34,440 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 82	 Number on Dice:2
+2021-10-15 15:18:34,442 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 84	 Number on Dice:3
+2021-10-15 15:18:34,441 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 87	 Number on Dice:5
+2021-10-15 15:18:34,443 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 92	 Number on Dice:3
+2021-10-15 15:18:34,443 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:1
+2021-10-15 15:18:34,443 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:3
+2021-10-15 15:18:34,443 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 15:18:34,443 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 87	 Number on Dice:3
+2021-10-15 15:18:34,443 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:18:34,444 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 90	 Number on Dice:3
+2021-10-15 15:18:34,444 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 93	 Number on Dice:6
+2021-10-15 15:18:34,444 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 15:18:34,444 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:19:15,578 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:19:53,193 [main] INFO  domain.GameInterface - 1. Shreya
+2021-10-15 15:20:03,645 [main] INFO  domain.GameInterface - 2. SSS
+2021-10-15 15:20:46,890 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:20:46,900 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:20:51,853 [main] INFO  domain.GameInterface - Player 1: Shreya  entered the game
+2021-10-15 15:20:54,101 [main] INFO  domain.GameInterface - Player 2: SSS entered the game
+2021-10-15 15:20:56,931 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 1	 Number on Dice:4
+2021-10-15 15:20:56,946 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 15:20:56,947 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 4	 Number on Dice:3
+2021-10-15 15:20:56,947 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 5	 Number on Dice:5
+2021-10-15 15:20:56,947 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 10	 Number on Dice:4
+2021-10-15 15:20:56,947 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 31	 Number on Dice:2
+2021-10-15 15:20:56,948 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 26	 Number on Dice:5
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 33	 Number on Dice:6
+2021-10-15 15:20:56,948 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 31	 Number on Dice:3
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 39	 Number on Dice:4
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 43	 Number on Dice:3
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 46	 Number on Dice:4
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 67	 Number on Dice:6
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 73	 Number on Dice:5
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 78	 Number on Dice:4
+2021-10-15 15:20:56,948 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 82	 Number on Dice:5
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 87	 Number on Dice:4
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 91	 Number on Dice:5
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:1
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:6
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:1
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:5
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 85	 Number on Dice:3
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 88	 Number on Dice:4
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 92	 Number on Dice:3
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:6
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:1
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:6
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:3
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 15:20:56,949 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 15:20:56,950 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 34	 Number on Dice:2
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 36	 Number on Dice:1
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 37	 Number on Dice:3
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 40	 Number on Dice:4
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 45	 Number on Dice:3
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 48	 Number on Dice:3
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 51	 Number on Dice:6
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 57	 Number on Dice:3
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 60	 Number on Dice:4
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 64	 Number on Dice:6
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 91	 Number on Dice:5
+2021-10-15 15:20:56,951 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 96	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 80	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 82	 Number on Dice:3
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 85	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 87	 Number on Dice:6
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 93	 Number on Dice:1
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 80	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 82	 Number on Dice:3
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 85	 Number on Dice:6
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 91	 Number on Dice:1
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 92	 Number on Dice:6
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 84	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 94	 Number on Dice:5
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 15:20:56,952 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:20:56,953 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:20:56,953 [main] INFO  domain.GameInterface - 1. SSS
+2021-10-15 15:20:56,953 [main] INFO  domain.GameInterface - 2. Shreya 
+2021-10-15 15:27:10,021 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 15:27:10,024 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 15:27:15,886 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 15:27:19,206 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 15:27:27,901 [main] INFO  domain.GameInterface - Player 3: Raj entered the game
+2021-10-15 15:27:30,331 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 15:27:30,331 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 3	 Number on Dice:6
+2021-10-15 15:27:30,331 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 9	 Number on Dice:2
+2021-10-15 15:27:30,331 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 11	 Number on Dice:2
+2021-10-15 15:27:30,331 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 13	 Number on Dice:3
+2021-10-15 15:27:30,333 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 16	 Number on Dice:5
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 21	 Number on Dice:5
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 26	 Number on Dice:4
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 30	 Number on Dice:3
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 33	 Number on Dice:6
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 39	 Number on Dice:5
+2021-10-15 15:27:30,339 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 15:27:30,341 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 45	 Number on Dice:1
+2021-10-15 15:27:30,341 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 46	 Number on Dice:6
+2021-10-15 15:27:30,341 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 52	 Number on Dice:2
+2021-10-15 15:27:30,341 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 54	 Number on Dice:6
+2021-10-15 15:27:30,342 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 15:27:30,342 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 3	 Number on Dice:6
+2021-10-15 15:27:30,343 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 9	 Number on Dice:2
+2021-10-15 15:27:30,343 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 11	 Number on Dice:3
+2021-10-15 15:27:30,343 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 26	 Number on Dice:4
+2021-10-15 15:27:30,343 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 30	 Number on Dice:2
+2021-10-15 15:27:30,343 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 32	 Number on Dice:6
+2021-10-15 15:27:30,344 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 38	 Number on Dice:2
+2021-10-15 15:27:30,344 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 40	 Number on Dice:1
+2021-10-15 15:27:30,345 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 41	 Number on Dice:3
+2021-10-15 15:27:30,346 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 44	 Number on Dice:2
+2021-10-15 15:27:30,346 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 46	 Number on Dice:5
+2021-10-15 15:27:30,346 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 51	 Number on Dice:1
+2021-10-15 15:27:30,347 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 52	 Number on Dice:2
+2021-10-15 15:27:30,347 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 60	 Number on Dice:6
+2021-10-15 15:27:30,348 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 54	 Number on Dice:3
+2021-10-15 15:27:30,348 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 57	 Number on Dice:2
+2021-10-15 15:27:30,348 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 66	 Number on Dice:5
+2021-10-15 15:27:30,349 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 71	 Number on Dice:1
+2021-10-15 15:27:30,349 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 72	 Number on Dice:6
+2021-10-15 15:27:30,353 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 78	 Number on Dice:3
+2021-10-15 15:27:30,354 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 81	 Number on Dice:6
+2021-10-15 15:27:30,348 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:5
+2021-10-15 15:27:30,359 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 14	 Number on Dice:5
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 19	 Number on Dice:5
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 24	 Number on Dice:3
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 84	 Number on Dice:5
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 89	 Number on Dice:1
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 90	 Number on Dice:5
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 95	 Number on Dice:4
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 15:27:30,360 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 15:27:30,361 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 15:27:30,359 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 87	 Number on Dice:5
+2021-10-15 15:27:30,362 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 92	 Number on Dice:1
+2021-10-15 15:27:30,354 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 59	 Number on Dice:1
+2021-10-15 15:27:30,364 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 93	 Number on Dice:3
+2021-10-15 15:27:30,364 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:2
+2021-10-15 15:27:30,364 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 60	 Number on Dice:6
+2021-10-15 15:27:30,365 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 15:27:30,365 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 84	 Number on Dice:3
+2021-10-15 15:27:30,365 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 87	 Number on Dice:2
+2021-10-15 15:27:30,366 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 89	 Number on Dice:4
+2021-10-15 15:27:30,366 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 66	 Number on Dice:4
+2021-10-15 15:27:30,366 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 91	 Number on Dice:3
+2021-10-15 15:27:30,366 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 15:27:30,367 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 15:27:30,366 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 93	 Number on Dice:4
+2021-10-15 15:27:30,368 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 84	 Number on Dice:5
+2021-10-15 15:27:30,369 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 15:27:30,369 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:3
+2021-10-15 15:27:30,369 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 89	 Number on Dice:6
+2021-10-15 15:27:30,371 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 95	 Number on Dice:5
+2021-10-15 15:27:30,371 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 15:27:30,372 [main] INFO  domain.GameInterface - 1. Shreya
+2021-10-15 15:27:30,372 [main] INFO  domain.GameInterface - 2. Raj
+2021-10-15 15:27:30,372 [main] INFO  domain.GameInterface - 3. SSS
+2021-10-15 16:04:40,133 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 16:04:40,135 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 16:04:48,846 [main] INFO  domain.GameInterface - Player 1: SSS entered the game
+2021-10-15 16:04:50,980 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 16:04:53,137 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:1
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 2	 Number on Dice:3
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 5	 Number on Dice:3
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 8	 Number on Dice:5
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 13	 Number on Dice:6
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 19	 Number on Dice:2
+2021-10-15 16:04:53,138 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 21	 Number on Dice:1
+2021-10-15 16:04:53,149 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 22	 Number on Dice:2
+2021-10-15 16:04:53,150 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 24	 Number on Dice:1
+2021-10-15 16:04:53,150 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 25	 Number on Dice:2
+2021-10-15 16:04:53,150 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 84	 Number on Dice:6
+2021-10-15 16:04:53,150 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 90	 Number on Dice:5
+2021-10-15 16:04:53,150 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 95	 Number on Dice:1
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 96	 Number on Dice:1
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:4
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:4
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:5
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 97	 Number on Dice:2
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:04:53,151 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:04:53,152 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:04:53,164 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:04:53,164 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:04:53,165 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:04:53,167 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 16:04:53,168 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 3	 Number on Dice:4
+2021-10-15 16:04:53,168 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 31	 Number on Dice:1
+2021-10-15 16:04:53,168 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 32	 Number on Dice:3
+2021-10-15 16:04:53,168 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 44	 Number on Dice:5
+2021-10-15 16:04:53,168 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 49	 Number on Dice:3
+2021-10-15 16:04:53,169 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 52	 Number on Dice:5
+2021-10-15 16:04:53,170 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 57	 Number on Dice:2
+2021-10-15 16:04:53,170 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 59	 Number on Dice:3
+2021-10-15 16:04:53,170 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 62	 Number on Dice:4
+2021-10-15 16:04:53,170 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 66	 Number on Dice:4
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 91	 Number on Dice:3
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 80	 Number on Dice:2
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 82	 Number on Dice:1
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 83	 Number on Dice:4
+2021-10-15 16:04:53,171 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 87	 Number on Dice:5
+2021-10-15 16:04:53,172 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 92	 Number on Dice:4
+2021-10-15 16:04:53,172 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 96	 Number on Dice:1
+2021-10-15 16:04:53,172 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 97	 Number on Dice:2
+2021-10-15 16:04:53,172 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:04:53,172 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:04:53,173 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:04:53,178 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 16:04:53,178 [main] INFO  domain.GameInterface - 1. SSS
+2021-10-15 16:04:53,178 [main] INFO  domain.GameInterface - 2. Shreya
+2021-10-15 16:06:26,927 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 16:06:26,931 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 16:06:32,326 [main] INFO  domain.GameInterface - Player 1: Raj entered the game
+2021-10-15 16:06:35,106 [main] INFO  domain.GameInterface - Player 2: Shreya entered the game
+2021-10-15 16:06:41,430 [main] INFO  domain.GameInterface - Player 3: Saloni entered the game
+2021-10-15 16:06:46,486 [main] INFO  domain.GameInterface - Player 4: Akshata entered the game
+2021-10-15 16:06:52,664 [main] INFO  domain.GameInterface - Player 5: Urvi entered the game
+2021-10-15 16:06:56,363 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:5
+2021-10-15 16:06:56,363 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 14	 Number on Dice:4
+2021-10-15 16:06:56,363 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 18	 Number on Dice:4
+2021-10-15 16:06:56,366 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 1	 Number on Dice:4
+2021-10-15 16:06:56,366 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 5	 Number on Dice:6
+2021-10-15 16:06:56,366 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 11	 Number on Dice:2
+2021-10-15 16:06:56,366 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 13	 Number on Dice:3
+2021-10-15 16:06:56,366 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 16	 Number on Dice:2
+2021-10-15 16:06:56,367 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 18	 Number on Dice:3
+2021-10-15 16:06:56,367 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 21	 Number on Dice:2
+2021-10-15 16:06:56,367 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 23	 Number on Dice:5
+2021-10-15 16:06:56,367 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 28	 Number on Dice:6
+2021-10-15 16:06:56,367 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 34	 Number on Dice:5
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 39	 Number on Dice:2
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 41	 Number on Dice:1
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 42	 Number on Dice:2
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 44	 Number on Dice:3
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 47	 Number on Dice:2
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 49	 Number on Dice:6
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 55	 Number on Dice:6
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 61	 Number on Dice:5
+2021-10-15 16:06:56,368 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 66	 Number on Dice:2
+2021-10-15 16:06:56,369 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 68	 Number on Dice:6
+2021-10-15 16:06:56,369 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 74	 Number on Dice:5
+2021-10-15 16:06:56,369 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 79	 Number on Dice:1
+2021-10-15 16:06:56,369 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 80	 Number on Dice:1
+2021-10-15 16:06:56,369 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 81	 Number on Dice:6
+2021-10-15 16:06:56,370 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 87	 Number on Dice:2
+2021-10-15 16:06:56,370 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 89	 Number on Dice:2
+2021-10-15 16:06:56,370 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 91	 Number on Dice:2
+2021-10-15 16:06:56,370 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 93	 Number on Dice:4
+2021-10-15 16:06:56,371 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 97	 Number on Dice:3
+2021-10-15 16:06:56,371 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 16:06:56,371 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 31	 Number on Dice:1
+2021-10-15 16:06:56,372 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 32	 Number on Dice:2
+2021-10-15 16:06:56,372 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 34	 Number on Dice:2
+2021-10-15 16:06:56,399 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 36	 Number on Dice:6
+2021-10-15 16:06:56,400 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 42	 Number on Dice:5
+2021-10-15 16:06:56,400 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 47	 Number on Dice:5
+2021-10-15 16:06:56,400 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 52	 Number on Dice:6
+2021-10-15 16:06:56,400 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 58	 Number on Dice:3
+2021-10-15 16:06:56,400 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 61	 Number on Dice:3
+2021-10-15 16:06:56,401 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 64	 Number on Dice:1
+2021-10-15 16:06:56,401 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 65	 Number on Dice:4
+2021-10-15 16:06:56,401 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 69	 Number on Dice:4
+2021-10-15 16:06:56,405 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 73	 Number on Dice:5
+2021-10-15 16:06:56,405 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 78	 Number on Dice:6
+2021-10-15 16:06:56,405 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 84	 Number on Dice:6
+2021-10-15 16:06:56,405 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 90	 Number on Dice:6
+2021-10-15 16:06:56,405 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 96	 Number on Dice:4
+2021-10-15 16:06:56,413 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 1	 Number on Dice:1
+2021-10-15 16:06:56,419 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 2	 Number on Dice:5
+2021-10-15 16:06:56,423 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 31	 Number on Dice:1
+2021-10-15 16:06:56,424 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 32	 Number on Dice:5
+2021-10-15 16:06:56,424 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 37	 Number on Dice:6
+2021-10-15 16:06:56,424 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 43	 Number on Dice:1
+2021-10-15 16:06:56,425 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 16:06:56,425 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 45	 Number on Dice:1
+2021-10-15 16:06:56,425 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 46	 Number on Dice:5
+2021-10-15 16:06:56,425 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 51	 Number on Dice:6
+2021-10-15 16:06:56,426 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 57	 Number on Dice:1
+2021-10-15 16:06:56,426 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 58	 Number on Dice:6
+2021-10-15 16:06:56,426 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 64	 Number on Dice:3
+2021-10-15 16:06:56,426 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 67	 Number on Dice:5
+2021-10-15 16:06:56,426 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 72	 Number on Dice:5
+2021-10-15 16:06:56,427 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:5
+2021-10-15 16:06:56,427 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:3
+2021-10-15 16:06:56,427 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:5
+2021-10-15 16:06:56,427 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:6
+2021-10-15 16:06:56,427 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:4
+2021-10-15 16:06:56,428 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:5
+2021-10-15 16:06:56,428 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 98	 Number on Dice:1
+2021-10-15 16:06:56,428 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:06:56,428 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:06:56,428 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 22	 Number on Dice:1
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 23	 Number on Dice:1
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 24	 Number on Dice:3
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 84	 Number on Dice:3
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 87	 Number on Dice:6
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 93	 Number on Dice:6
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:06:56,429 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 1	 Number on Dice:2
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 3	 Number on Dice:1
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 4	 Number on Dice:2
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 14	 Number on Dice:6
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 42	 Number on Dice:4
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 46	 Number on Dice:4
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 67	 Number on Dice:3
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 91	 Number on Dice:1
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 92	 Number on Dice:3
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 95	 Number on Dice:4
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:06:56,430 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:06:56,430 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 16:06:56,431 [main] INFO  domain.GameInterface - 1. Akshata
+2021-10-15 16:06:56,431 [main] INFO  domain.GameInterface - 2. Saloni
+2021-10-15 16:06:56,431 [main] INFO  domain.GameInterface - 3. Raj
+2021-10-15 16:06:56,431 [main] INFO  domain.GameInterface - 4. Shreya
+2021-10-15 16:06:56,431 [main] INFO  domain.GameInterface - 5. Urvi
+2021-10-15 16:09:08,910 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 16:09:08,919 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 16:09:13,573 [main] INFO  domain.GameInterface - Player 1: Shreya  entered the game
+2021-10-15 16:09:15,530 [main] INFO  domain.GameInterface - Player 2: Raj entered the game
+2021-10-15 16:09:20,332 [main] INFO  domain.GameInterface - Player 3: Saloni entered the game
+2021-10-15 16:09:23,378 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 16:09:23,381 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 4	 Number on Dice:4
+2021-10-15 16:09:23,382 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 8	 Number on Dice:4
+2021-10-15 16:09:23,382 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 12	 Number on Dice:1
+2021-10-15 16:09:23,382 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 13	 Number on Dice:5
+2021-10-15 16:09:23,383 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 18	 Number on Dice:5
+2021-10-15 16:09:23,383 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 23	 Number on Dice:5
+2021-10-15 16:09:23,383 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 28	 Number on Dice:4
+2021-10-15 16:09:23,383 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 32	 Number on Dice:2
+2021-10-15 16:09:23,384 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 34	 Number on Dice:1
+2021-10-15 16:09:23,384 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 16:09:23,392 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 45	 Number on Dice:3
+2021-10-15 16:09:23,393 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 48	 Number on Dice:1
+2021-10-15 16:09:23,393 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 49	 Number on Dice:3
+2021-10-15 16:09:23,393 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 52	 Number on Dice:1
+2021-10-15 16:09:23,393 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 53	 Number on Dice:5
+2021-10-15 16:09:23,394 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 58	 Number on Dice:6
+2021-10-15 16:09:23,394 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 64	 Number on Dice:3
+2021-10-15 16:09:23,394 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 67	 Number on Dice:1
+2021-10-15 16:09:23,395 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 68	 Number on Dice:3
+2021-10-15 16:09:23,398 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 71	 Number on Dice:4
+2021-10-15 16:09:23,398 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 75	 Number on Dice:3
+2021-10-15 16:09:23,398 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 78	 Number on Dice:1
+2021-10-15 16:09:23,399 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 79	 Number on Dice:5
+2021-10-15 16:09:23,399 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 84	 Number on Dice:1
+2021-10-15 16:09:23,399 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 85	 Number on Dice:2
+2021-10-15 16:09:23,401 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 87	 Number on Dice:4
+2021-10-15 16:09:23,407 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 91	 Number on Dice:6
+2021-10-15 16:09:23,408 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 97	 Number on Dice:4
+2021-10-15 16:09:23,408 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 97	 Number on Dice:2
+2021-10-15 16:09:23,408 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:09:23,408 [Player Raj] INFO  domain.PlayGame - 
+
+Player: Raj	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:09:23,408 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 31	 Number on Dice:6
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 37	 Number on Dice:6
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 43	 Number on Dice:1
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 44	 Number on Dice:1
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 45	 Number on Dice:6
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 51	 Number on Dice:2
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 53	 Number on Dice:1
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 54	 Number on Dice:5
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 59	 Number on Dice:5
+2021-10-15 16:09:23,411 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 64	 Number on Dice:2
+2021-10-15 16:09:23,413 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 66	 Number on Dice:1
+2021-10-15 16:09:23,413 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 67	 Number on Dice:5
+2021-10-15 16:09:23,413 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 72	 Number on Dice:1
+2021-10-15 16:09:23,413 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 73	 Number on Dice:3
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 76	 Number on Dice:4
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 84	 Number on Dice:1
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 85	 Number on Dice:4
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 89	 Number on Dice:2
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 91	 Number on Dice:3
+2021-10-15 16:09:23,414 [Player Saloni] INFO  domain.PlayGame - 
+
+Player: Saloni	 CurrentSquare: 94	 Number on Dice:6
+2021-10-15 16:09:23,415 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 1	 Number on Dice:5
+2021-10-15 16:09:23,415 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 14	 Number on Dice:6
+2021-10-15 16:09:23,417 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 42	 Number on Dice:6
+2021-10-15 16:09:23,418 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 48	 Number on Dice:6
+2021-10-15 16:09:23,418 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 54	 Number on Dice:5
+2021-10-15 16:09:23,418 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 59	 Number on Dice:2
+2021-10-15 16:09:23,419 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 61	 Number on Dice:6
+2021-10-15 16:09:23,419 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 67	 Number on Dice:1
+2021-10-15 16:09:23,420 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 68	 Number on Dice:5
+2021-10-15 16:09:23,420 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 73	 Number on Dice:1
+2021-10-15 16:09:23,420 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 74	 Number on Dice:4
+2021-10-15 16:09:23,420 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 78	 Number on Dice:4
+2021-10-15 16:09:23,422 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 82	 Number on Dice:6
+2021-10-15 16:09:23,423 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 88	 Number on Dice:4
+2021-10-15 16:09:23,423 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 92	 Number on Dice:1
+2021-10-15 16:09:23,424 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 93	 Number on Dice:1
+2021-10-15 16:09:23,425 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 94	 Number on Dice:1
+2021-10-15 16:09:23,425 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 95	 Number on Dice:1
+2021-10-15 16:09:23,425 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 96	 Number on Dice:2
+2021-10-15 16:09:23,426 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 80	 Number on Dice:4
+2021-10-15 16:09:23,426 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 84	 Number on Dice:5
+2021-10-15 16:09:23,426 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 89	 Number on Dice:3
+2021-10-15 16:09:23,426 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 92	 Number on Dice:6
+2021-10-15 16:09:23,427 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 80	 Number on Dice:5
+2021-10-15 16:09:23,427 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 85	 Number on Dice:2
+2021-10-15 16:09:23,427 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 87	 Number on Dice:3
+2021-10-15 16:09:23,428 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 90	 Number on Dice:3
+2021-10-15 16:09:23,428 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 93	 Number on Dice:1
+2021-10-15 16:09:23,428 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 94	 Number on Dice:2
+2021-10-15 16:09:23,428 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 96	 Number on Dice:1
+2021-10-15 16:09:23,428 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 97	 Number on Dice:2
+2021-10-15 16:09:23,429 [Player Shreya ] INFO  domain.PlayGame - 
+
+Player: Shreya 	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:09:23,429 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 16:09:23,430 [main] INFO  domain.GameInterface - 1. Saloni
+2021-10-15 16:09:23,430 [main] INFO  domain.GameInterface - 2. Shreya 
+2021-10-15 16:09:23,430 [main] INFO  domain.GameInterface - 3. Raj
+2021-10-15 16:14:49,243 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 16:14:49,245 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 16:14:54,602 [main] INFO  domain.GameInterface - Player 1: Shreya entered the game
+2021-10-15 16:14:59,772 [main] INFO  domain.GameInterface - Player 2: Akshata entered the game
+2021-10-15 16:15:05,184 [main] INFO  domain.GameInterface - Player 3: Urvi entered the game
+2021-10-15 16:15:08,668 [main] INFO  domain.GameInterface - Player 4: Snehal entered the game
+2021-10-15 16:15:11,628 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 16:15:11,630 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 31	 Number on Dice:3
+2021-10-15 16:15:11,631 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 34	 Number on Dice:3
+2021-10-15 16:15:11,636 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 1	 Number on Dice:1
+2021-10-15 16:15:11,637 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 2	 Number on Dice:3
+2021-10-15 16:15:11,637 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 5	 Number on Dice:3
+2021-10-15 16:15:11,638 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 8	 Number on Dice:6
+2021-10-15 16:15:11,638 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 26	 Number on Dice:1
+2021-10-15 16:15:11,638 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 84	 Number on Dice:3
+2021-10-15 16:15:11,638 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 87	 Number on Dice:1
+2021-10-15 16:15:11,639 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 88	 Number on Dice:5
+2021-10-15 16:15:11,639 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 93	 Number on Dice:1
+2021-10-15 16:15:11,639 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 94	 Number on Dice:5
+2021-10-15 16:15:11,639 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,639 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,640 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,640 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:15:11,640 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,641 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:15:11,643 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,643 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:15:11,644 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 4	 Number on Dice:4
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 8	 Number on Dice:1
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 9	 Number on Dice:4
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 13	 Number on Dice:1
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 26	 Number on Dice:3
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 29	 Number on Dice:2
+2021-10-15 16:15:11,645 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 31	 Number on Dice:3
+2021-10-15 16:15:11,646 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 34	 Number on Dice:4
+2021-10-15 16:15:11,646 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 38	 Number on Dice:5
+2021-10-15 16:15:11,646 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 43	 Number on Dice:6
+2021-10-15 16:15:11,646 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 49	 Number on Dice:5
+2021-10-15 16:15:11,652 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 54	 Number on Dice:6
+2021-10-15 16:15:11,653 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 60	 Number on Dice:3
+2021-10-15 16:15:11,653 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 63	 Number on Dice:2
+2021-10-15 16:15:11,653 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 65	 Number on Dice:2
+2021-10-15 16:15:11,653 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 67	 Number on Dice:3
+2021-10-15 16:15:11,654 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 91	 Number on Dice:1
+2021-10-15 16:15:11,654 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 92	 Number on Dice:4
+2021-10-15 16:15:11,654 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 96	 Number on Dice:3
+2021-10-15 16:15:11,654 [Player Urvi] INFO  domain.PlayGame - 
+
+Player: Urvi	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:15:11,655 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 37	 Number on Dice:2
+2021-10-15 16:15:11,655 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 39	 Number on Dice:3
+2021-10-15 16:15:11,656 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 42	 Number on Dice:2
+2021-10-15 16:15:11,656 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 44	 Number on Dice:4
+2021-10-15 16:15:11,656 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 48	 Number on Dice:1
+2021-10-15 16:15:11,656 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 49	 Number on Dice:2
+2021-10-15 16:15:11,656 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 51	 Number on Dice:1
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 52	 Number on Dice:6
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 58	 Number on Dice:3
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 61	 Number on Dice:5
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 66	 Number on Dice:6
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 72	 Number on Dice:4
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 76	 Number on Dice:2
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 78	 Number on Dice:4
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 82	 Number on Dice:4
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 94	 Number on Dice:1
+2021-10-15 16:15:11,657 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 95	 Number on Dice:3
+2021-10-15 16:15:11,658 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 80	 Number on Dice:3
+2021-10-15 16:15:11,658 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 83	 Number on Dice:5
+2021-10-15 16:15:11,658 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 88	 Number on Dice:4
+2021-10-15 16:15:11,658 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 92	 Number on Dice:3
+2021-10-15 16:15:11,658 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 95	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 4	 Number on Dice:1
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 5	 Number on Dice:4
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 9	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 26	 Number on Dice:4
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 30	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 44	 Number on Dice:3
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 47	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 52	 Number on Dice:1
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 53	 Number on Dice:4
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 57	 Number on Dice:4
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 61	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 66	 Number on Dice:5
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 71	 Number on Dice:4
+2021-10-15 16:15:11,659 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 75	 Number on Dice:2
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 98	 Number on Dice:6
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 98	 Number on Dice:5
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 98	 Number on Dice:1
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:5
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:6
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:3
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:4
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:2
+2021-10-15 16:15:11,660 [Player Snehal] INFO  domain.PlayGame - 
+
+Player: Snehal	 CurrentSquare: 99	 Number on Dice:1
+2021-10-15 16:15:11,660 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 16:15:11,661 [main] INFO  domain.GameInterface - 1. Urvi
+2021-10-15 16:15:11,662 [main] INFO  domain.GameInterface - 2. Akshata
+2021-10-15 16:15:11,662 [main] INFO  domain.GameInterface - 3. Shreya
+2021-10-15 16:15:11,662 [main] INFO  domain.GameInterface - 4. Snehal
+2021-10-15 16:15:38,109 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-15 16:15:38,112 [main] INFO  domain.Game - Initialised the board with all the Snakes and Ladders
+2021-10-15 16:15:42,389 [main] INFO  domain.GameInterface - Player 1: Shreya entered the game
+2021-10-15 16:15:45,534 [main] INFO  domain.GameInterface - Player 2: SSS entered the game
+2021-10-15 16:15:52,637 [main] INFO  domain.GameInterface - Player 3: Urci entered the game
+2021-10-15 16:15:56,646 [main] INFO  domain.GameInterface - Player 4: Akshata entered the game
+2021-10-15 16:15:58,661 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 1	 Number on Dice:4
+2021-10-15 16:15:58,661 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 5	 Number on Dice:5
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 10	 Number on Dice:3
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 13	 Number on Dice:3
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 16	 Number on Dice:5
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 21	 Number on Dice:1
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 22	 Number on Dice:5
+2021-10-15 16:15:58,662 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 84	 Number on Dice:1
+2021-10-15 16:15:58,663 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 85	 Number on Dice:1
+2021-10-15 16:15:58,678 [Player Shreya] INFO  domain.PlayGame - 
+
+Player: Shreya	 CurrentSquare: 94	 Number on Dice:6
+2021-10-15 16:15:58,692 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 16:15:58,693 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 31	 Number on Dice:1
+2021-10-15 16:15:58,693 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 32	 Number on Dice:2
+2021-10-15 16:15:58,693 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 34	 Number on Dice:2
+2021-10-15 16:15:58,693 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 36	 Number on Dice:4
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 40	 Number on Dice:1
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 41	 Number on Dice:5
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 46	 Number on Dice:3
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 49	 Number on Dice:3
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 52	 Number on Dice:1
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 53	 Number on Dice:4
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 57	 Number on Dice:6
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 63	 Number on Dice:4
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 67	 Number on Dice:6
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 73	 Number on Dice:2
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 75	 Number on Dice:1
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 76	 Number on Dice:5
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 81	 Number on Dice:5
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 94	 Number on Dice:4
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 80	 Number on Dice:1
+2021-10-15 16:15:58,694 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 81	 Number on Dice:6
+2021-10-15 16:15:58,695 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 87	 Number on Dice:2
+2021-10-15 16:15:58,695 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 89	 Number on Dice:1
+2021-10-15 16:15:58,695 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 90	 Number on Dice:2
+2021-10-15 16:15:58,695 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 92	 Number on Dice:4
+2021-10-15 16:15:58,695 [Player Akshata] INFO  domain.PlayGame - 
+
+Player: Akshata	 CurrentSquare: 96	 Number on Dice:4
+2021-10-15 16:15:58,695 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 1	 Number on Dice:6
+2021-10-15 16:15:58,696 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 1	 Number on Dice:3
+2021-10-15 16:15:58,696 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 4	 Number on Dice:6
+2021-10-15 16:15:58,696 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 10	 Number on Dice:1
+2021-10-15 16:15:58,696 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 11	 Number on Dice:4
+2021-10-15 16:15:58,697 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 15	 Number on Dice:6
+2021-10-15 16:15:58,697 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 21	 Number on Dice:6
+2021-10-15 16:15:58,697 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 84	 Number on Dice:5
+2021-10-15 16:15:58,697 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 89	 Number on Dice:6
+2021-10-15 16:15:58,697 [Player Urci] INFO  domain.PlayGame - 
+
+Player: Urci	 CurrentSquare: 95	 Number on Dice:5
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 31	 Number on Dice:2
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 33	 Number on Dice:4
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 37	 Number on Dice:5
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 42	 Number on Dice:3
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 45	 Number on Dice:1
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 46	 Number on Dice:3
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 49	 Number on Dice:4
+2021-10-15 16:15:58,697 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 53	 Number on Dice:5
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 58	 Number on Dice:1
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 59	 Number on Dice:3
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 62	 Number on Dice:1
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 63	 Number on Dice:3
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 66	 Number on Dice:5
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 71	 Number on Dice:6
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 98	 Number on Dice:6
+2021-10-15 16:15:58,698 [Player SSS] INFO  domain.PlayGame - 
+
+Player: SSS	 CurrentSquare: 98	 Number on Dice:2
+2021-10-15 16:15:58,698 [main] INFO  domain.GameInterface - The final standings are : 
+2021-10-15 16:15:58,699 [main] INFO  domain.GameInterface - 1. Urci
+2021-10-15 16:15:58,699 [main] INFO  domain.GameInterface - 2. Shreya
+2021-10-15 16:15:58,699 [main] INFO  domain.GameInterface - 3. SSS
+2021-10-15 16:15:58,699 [main] INFO  domain.GameInterface - 4. Akshata
