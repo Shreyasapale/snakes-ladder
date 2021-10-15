@@ -40,8 +40,7 @@ public class Driver {
         }
         System.out.println("Log files written out at "+logFile);
         dailyRollingFileAppender.setFile(logFile);
-        dailyRollingFileAppender.setLayout(new EnhancedPatternLayout("%d [%t] %-5p %c - %m%n"));
-
+        dailyRollingFileAppender.setLayout(new EnhancedPatternLayout("%-6d [%25.35t] %-5p %40.80c - %m%n"));
         dailyRollingFileAppender.activateOptions();
         org.apache.log4j.Logger.getRootLogger().addAppender(dailyRollingFileAppender);
         return dailyRollingFileAppender.getFile();

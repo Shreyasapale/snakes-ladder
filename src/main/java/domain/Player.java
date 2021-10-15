@@ -92,10 +92,6 @@ public class Player implements Comparable, Callable<Integer> {
         }
     }
 
-    /*
-    * return 1 means thr object has higher index
-    * */
-
     @Override
     public Integer call() throws Exception {
         Thread.currentThread().setName("Player "+this.getName());
