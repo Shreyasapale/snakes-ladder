@@ -1,13 +1,15 @@
 package domain;
 
-import bootstrap.Driver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
 public class GameInterface {
+
+    private static Logger logger = LoggerFactory.getLogger(GameInterface.class);
 
     public static void printWelcome(){
         System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!! Welcome to the game of Snakes and Ladders !!!!!!!!!!!!!!!!!!!!!!!11");
@@ -16,11 +18,11 @@ public class GameInterface {
 
     public static void displayRanks(ArrayList<Player> players) {
         System.out.println("\n\nHere is the final result of the game : ");
-        Driver.logger.info("The final standings are : ");
+        logger.info("The final standings are : ");
         Collections.sort(players);
 
         for (int i = 0 ; i < players.size(); i++) {
-            Driver.logger.info((i+1) + ". "+players.get(i).getName());
+            logger.info((i+1) + ". "+players.get(i).getName());
             System.out.println((i+1) + " "+players.get(i).getName() + "\t\tRank: "+players.get(i).getRank());
         }
     }
@@ -34,7 +36,7 @@ public class GameInterface {
         System.out.println("Enter the name of Player 1 : ");
         String playerName = scanner.nextLine();
         players.add(new Player(playerName,1));
-        Driver.logger.info("Player 1: "+playerName+" entered the game");
+        logger.info("Player 1: "+playerName+" entered the game");
 
         int i =2;
         int choice = 1;
@@ -43,7 +45,7 @@ public class GameInterface {
             System.out.println("\nEnter the name of Player "+i);
             playerName = scanner.nextLine();
             players.add(new Player(playerName,i));
-            Driver.logger.info("Player "+i+ ": "+playerName+" entered the game");
+            logger.info("Player "+i+ ": "+playerName+" entered the game");
             System.out.println("Enter 1 if you want to add one more player else enter -1");
             try {
                 choice = Integer.parseInt(scanner.nextLine());

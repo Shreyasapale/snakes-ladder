@@ -1,8 +1,6 @@
 package domain;
 
-import java.io.Serializable;
-
-public class Ladder implements Serializable {
+public class Ladder {
     private int startSquare;
     private int endSquare;
 

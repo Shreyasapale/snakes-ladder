@@ -1,0 +1,7 @@
+2021-10-01 22:21:35,068 [main] INFO  bootstrap.Driver - The Game is started
+2021-10-01 22:21:35,070 [main] INFO  bootstrap.Driver - Initialised the board with all the Snakes an =d Ladders
+2021-10-01 22:21:44,326 [main] INFO  bootstrap.Driver - Player 1: Shreya entered the game
+2021-10-01 22:21:49,006 [main] INFO  bootstrap.Driver - Player 2: Urvi entered the game
+2021-10-01 22:21:50,705 [main] INFO  bootstrap.Driver - The final standings are : 
+2021-10-01 22:21:50,706 [main] INFO  bootstrap.Driver - 0. Urvi
+2021-10-01 22:21:50,707 [main] INFO  bootstrap.Driver - 1. Shreya

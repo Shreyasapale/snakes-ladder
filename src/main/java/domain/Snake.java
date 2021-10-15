@@ -1,8 +1,7 @@
 package domain;
 
-import java.io.Serializable;
 
-public class Snake implements Serializable {
+public class Snake {
     private int headSquare;
     private int tailSquare;
 

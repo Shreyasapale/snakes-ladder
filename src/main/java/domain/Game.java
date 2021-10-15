@@ -1,11 +1,13 @@
 package domain;
 
-import bootstrap.Driver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-import java.io.Serializable;
 import java.util.ArrayList;
 
-public class Game implements Serializable {
+public class Game {
+
+    private Logger logger = LoggerFactory.getLogger(Game.class);
 
     int playersCompleted= 0;
 
@@ -59,7 +61,7 @@ public class Game implements Serializable {
             }
             gameBoard[i] = currentSquare;
         }
-        Driver.logger.info("Initialised the board with all the Snakes an =d Ladders");
+        logger.info("Initialised the board with all the Snakes and Ladders");
     }
 
 

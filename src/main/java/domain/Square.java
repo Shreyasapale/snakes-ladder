@@ -1,11 +1,9 @@
 package domain;
 
-import java.io.Serializable;
-
-public class Square implements Serializable {
+public class Square {
     private int squareNumber;
-    private Snake snake = null;
-    private Ladder ladder = null;
+    private Snake snake;
+    private Ladder ladder;
 
     public Square(int squareNumber) {
         this.squareNumber = squareNumber;

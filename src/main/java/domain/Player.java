@@ -1,10 +1,9 @@
 package domain;
 
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Scanner;
 
-public class Player implements Serializable, Comparable {
+import java.util.concurrent.Callable;
+
+public class Player implements Comparable {
 
     static final int MAX_PLAYERS_ALLOWED = 8;
 
@@ -92,4 +91,5 @@ public class Player implements Serializable, Comparable {
            }
         }
     }
+
 }
